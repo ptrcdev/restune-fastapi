@@ -57,8 +57,8 @@ The Resume Analyzer API processes resume and job description texts to produce an
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/resume-analyzer-api.git
-   cd resume-analyzer-api
+   git clone git@github.com:ptrcdev/restune-fastapi.git
+   cd restune-fastapi
    ```
 2. **Create and activate a virtual environment:**
 
